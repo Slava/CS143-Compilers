@@ -7,9 +7,15 @@
 
 2. see attachments
 
+![](./img/wa1-2-a.jpg)
+![](./img/wa1-2-b.jpg)
+![](./img/wa1-2-c.jpg)
+
 3. Any number of zeroes followed by any number of ones. `0*1*`.
 
 4. see attachment. Less than `2^6`
+
+![](./img/wa1-4.jpg)
 
 5.
   a. `w*z?((y+x?)(w+z?))*y*x?`
